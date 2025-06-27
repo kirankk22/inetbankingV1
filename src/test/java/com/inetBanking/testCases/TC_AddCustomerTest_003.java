@@ -12,6 +12,7 @@ import com.inetBanking.pageObjects.LoginPage;
 
 public class TC_AddCustomerTest_003 extends BaseClass {
 	
+	// This test will fail because when we click submit, it will not display the page and it shows 503 server error
 	@Test
 	public void addNewCustomer() throws InterruptedException, IOException {
 		LoginPage lp = new LoginPage(driver);
