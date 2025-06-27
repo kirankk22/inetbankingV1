@@ -1,0 +1,279 @@
+2025-06-25 00:39:15 [INFO] ebanking - URL is opened
+2025-06-25 00:39:15 [INFO] ebanking - Entered username
+2025-06-25 00:39:15 [INFO] ebanking - Entered password
+2025-06-25 00:39:16 [INFO] ebanking - clicked on  Login button
+2025-06-25 00:39:18 [INFO] ebanking - Login test passed
+2025-06-25 00:47:27 [INFO] ebanking - URL is opened
+2025-06-25 00:47:27 [INFO] ebanking - Entered username
+2025-06-25 00:47:27 [INFO] ebanking - Entered password
+2025-06-25 00:47:28 [INFO] ebanking - clicked on  Login button
+2025-06-25 00:47:30 [INFO] ebanking - Login test passed
+2025-06-25 02:03:55 [INFO] ebanking - URL is opened
+2025-06-25 02:03:55 [INFO] ebanking - Entered username
+2025-06-25 02:03:55 [INFO] ebanking - Entered password
+2025-06-25 02:03:55 [INFO] ebanking - clicked on  Login button
+2025-06-25 02:03:57 [INFO] ebanking - Login test passed
+2025-06-25 02:54:31 [INFO] ebanking - URL is opened
+2025-06-25 02:54:31 [INFO] ebanking - Entered username
+2025-06-25 02:54:31 [INFO] ebanking - Entered password
+2025-06-25 02:54:31 [INFO] ebanking - clicked on  Login button
+2025-06-25 02:54:33 [INFO] ebanking - Login test passed
+2025-06-25 02:54:53 [INFO] ebanking - URL is opened
+2025-06-25 02:54:53 [INFO] ebanking - Entered username
+2025-06-25 02:54:53 [INFO] ebanking - Entered password
+2025-06-25 02:54:54 [INFO] ebanking - clicked on  Login button
+2025-06-25 02:54:56 [INFO] ebanking - Login test passed
+2025-06-25 07:15:24 [INFO] ebanking - URL is opened
+2025-06-25 07:15:24 [INFO] ebanking - Entered username
+2025-06-25 07:15:24 [INFO] ebanking - Entered password
+2025-06-25 07:15:24 [INFO] ebanking - clicked on  Login button
+2025-06-25 07:15:26 [INFO] ebanking - Login test passed
+2025-06-25 07:26:47 [INFO] ebanking - URL is opened
+2025-06-25 07:26:47 [INFO] ebanking - Entered username
+2025-06-25 07:26:47 [INFO] ebanking - Entered password
+2025-06-25 07:26:47 [INFO] ebanking - clicked on  Login button
+2025-06-25 07:28:55 [INFO] ebanking - URL is opened
+2025-06-25 07:28:55 [INFO] ebanking - Entered username
+2025-06-25 07:28:55 [INFO] ebanking - Entered password
+2025-06-25 07:28:55 [INFO] ebanking - clicked on  Login button
+2025-06-25 07:31:24 [INFO] ebanking - URL is opened
+2025-06-25 07:31:25 [INFO] ebanking - Entered username
+2025-06-25 07:31:25 [INFO] ebanking - Entered password
+2025-06-25 07:31:25 [INFO] ebanking - clicked on  Login button
+2025-06-25 09:21:26 [INFO] ebanking - URL is opened
+2025-06-25 09:21:26 [INFO] ebanking - Entered username
+2025-06-25 09:21:26 [INFO] ebanking - Entered password
+2025-06-25 09:21:27 [INFO] ebanking - clicked on  Login button
+2025-06-25 09:24:49 [INFO] ebanking - URL is opened
+2025-06-25 09:24:50 [INFO] ebanking - Entered username
+2025-06-25 09:24:50 [INFO] ebanking - Entered password
+2025-06-25 09:24:50 [INFO] ebanking - clicked on  Login button
+2025-06-25 09:26:34 [INFO] ebanking - URL is opened
+2025-06-25 09:26:34 [INFO] ebanking - Entered username
+2025-06-25 09:26:34 [INFO] ebanking - Entered password
+2025-06-25 09:26:35 [INFO] ebanking - clicked on  Login button
+2025-06-26 18:03:31 [INFO] ebanking - Username provided
+2025-06-26 18:03:31 [INFO] ebanking - Password provided
+2025-06-26 18:03:35 [INFO] ebanking - Login passed
+2025-06-26 18:05:21 [INFO] ebanking - Username provided
+2025-06-26 18:05:21 [INFO] ebanking - Password provided
+2025-06-26 18:05:24 [INFO] ebanking - Login passed
+2025-06-26 18:33:18 [INFO] ebanking - Username provided
+2025-06-26 18:33:18 [INFO] ebanking - Password provided
+2025-06-26 18:33:21 [INFO] ebanking - Login passed
+2025-06-26 18:33:22 [INFO] ebanking - Username provided
+2025-06-26 18:33:22 [INFO] ebanking - Password provided
+2025-06-26 18:33:26 [INFO] ebanking - Username provided
+2025-06-26 18:33:26 [INFO] ebanking - Password provided
+2025-06-26 18:33:31 [INFO] ebanking - Username provided
+2025-06-26 18:33:31 [INFO] ebanking - Password provided
+2025-06-26 18:33:34 [INFO] ebanking - Username provided
+2025-06-26 18:33:34 [INFO] ebanking - Password provided
+2025-06-26 18:33:38 [INFO] ebanking - Username provided
+2025-06-26 18:33:38 [INFO] ebanking - Password provided
+2025-06-26 18:33:41 [INFO] ebanking - Login passed
+2025-06-27 13:17:00 [INFO] ebanking - Username provided
+2025-06-27 13:17:00 [INFO] ebanking - Password provided
+2025-06-27 13:17:04 [INFO] ebanking - Providing customer details ...
+2025-06-27 13:17:08 [INFO] ebanking - validation started ...
+2025-06-27 15:09:14 [INFO] ebanking - Username provided
+2025-06-27 15:09:14 [INFO] ebanking - Password provided
+2025-06-27 15:09:20 [INFO] ebanking - Providing customer details ...
+2025-06-27 15:09:23 [INFO] ebanking - validation started ...
+2025-06-27 15:10:20 [INFO] ebanking - URL is opened
+2025-06-27 15:10:20 [INFO] ebanking - Entered username
+2025-06-27 15:10:20 [INFO] ebanking - Entered password
+2025-06-27 15:10:21 [INFO] ebanking - clicked on  Login button
+2025-06-27 15:10:26 [INFO] ebanking - Username provided
+2025-06-27 15:10:26 [INFO] ebanking - Password provided
+2025-06-27 15:10:29 [INFO] ebanking - Login passed
+2025-06-27 15:10:31 [INFO] ebanking - Username provided
+2025-06-27 15:10:31 [INFO] ebanking - Password provided
+2025-06-27 15:10:35 [INFO] ebanking - Username provided
+2025-06-27 15:10:35 [INFO] ebanking - Password provided
+2025-06-27 15:10:39 [INFO] ebanking - Username provided
+2025-06-27 15:10:39 [INFO] ebanking - Password provided
+2025-06-27 15:10:43 [INFO] ebanking - Username provided
+2025-06-27 15:10:43 [INFO] ebanking - Password provided
+2025-06-27 15:10:47 [INFO] ebanking - Username provided
+2025-06-27 15:10:47 [INFO] ebanking - Password provided
+2025-06-27 15:10:50 [INFO] ebanking - Login passed
+2025-06-27 15:10:54 [INFO] ebanking - Username provided
+2025-06-27 15:10:54 [INFO] ebanking - Password provided
+2025-06-27 15:10:58 [INFO] ebanking - Providing customer details ...
+2025-06-27 15:11:01 [INFO] ebanking - validation started ...
+2025-06-27 15:27:38 [INFO] ebanking - URL is opened
+2025-06-27 15:27:38 [INFO] ebanking - Entered username
+2025-06-27 15:27:38 [INFO] ebanking - Entered password
+2025-06-27 15:27:39 [INFO] ebanking - clicked on  Login button
+2025-06-27 15:27:45 [INFO] ebanking - Username provided
+2025-06-27 15:27:45 [INFO] ebanking - Password provided
+2025-06-27 15:27:48 [INFO] ebanking - Login passed
+2025-06-27 15:27:50 [INFO] ebanking - Username provided
+2025-06-27 15:27:50 [INFO] ebanking - Password provided
+2025-06-27 15:27:54 [INFO] ebanking - Username provided
+2025-06-27 15:27:55 [INFO] ebanking - Password provided
+2025-06-27 15:27:58 [INFO] ebanking - Username provided
+2025-06-27 15:27:58 [INFO] ebanking - Password provided
+2025-06-27 15:28:03 [INFO] ebanking - Username provided
+2025-06-27 15:28:03 [INFO] ebanking - Password provided
+2025-06-27 15:28:07 [INFO] ebanking - Username provided
+2025-06-27 15:28:08 [INFO] ebanking - Password provided
+2025-06-27 15:28:12 [INFO] ebanking - Login passed
+2025-06-27 15:28:16 [INFO] ebanking - Username provided
+2025-06-27 15:28:16 [INFO] ebanking - Password provided
+2025-06-27 15:28:20 [INFO] ebanking - Providing customer details ...
+2025-06-27 15:28:23 [INFO] ebanking - validation started ...
+2025-06-27 15:40:03 [INFO] ebanking - URL is opened
+2025-06-27 15:40:03 [INFO] ebanking - Entered username
+2025-06-27 15:40:03 [INFO] ebanking - Entered password
+2025-06-27 15:40:03 [INFO] ebanking - clicked on  Login button
+2025-06-27 15:40:10 [INFO] ebanking - Username provided
+2025-06-27 15:40:10 [INFO] ebanking - Password provided
+2025-06-27 15:40:13 [INFO] ebanking - Login passed
+2025-06-27 15:40:14 [INFO] ebanking - Username provided
+2025-06-27 15:40:14 [INFO] ebanking - Password provided
+2025-06-27 15:40:18 [INFO] ebanking - Username provided
+2025-06-27 15:40:18 [INFO] ebanking - Password provided
+2025-06-27 15:40:24 [INFO] ebanking - Username provided
+2025-06-27 15:40:24 [INFO] ebanking - Password provided
+2025-06-27 15:40:28 [INFO] ebanking - Username provided
+2025-06-27 15:40:28 [INFO] ebanking - Password provided
+2025-06-27 15:40:32 [INFO] ebanking - Username provided
+2025-06-27 15:40:32 [INFO] ebanking - Password provided
+2025-06-27 15:40:35 [INFO] ebanking - Login passed
+2025-06-27 15:40:39 [INFO] ebanking - Username provided
+2025-06-27 15:40:39 [INFO] ebanking - Password provided
+2025-06-27 15:40:43 [INFO] ebanking - Providing customer details ...
+2025-06-27 15:40:47 [INFO] ebanking - validation started ...
+2025-06-27 17:12:01 [INFO] ebanking - URL is opened
+2025-06-27 17:12:01 [INFO] ebanking - Entered username
+2025-06-27 17:12:01 [INFO] ebanking - Entered password
+2025-06-27 17:12:07 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:12:15 [INFO] ebanking - Username provided
+2025-06-27 17:12:15 [INFO] ebanking - Password provided
+2025-06-27 17:12:18 [INFO] ebanking - Login passed
+2025-06-27 17:12:22 [INFO] ebanking - Username provided
+2025-06-27 17:12:22 [INFO] ebanking - Password provided
+2025-06-27 17:12:26 [INFO] ebanking - Username provided
+2025-06-27 17:12:26 [INFO] ebanking - Password provided
+2025-06-27 17:12:30 [INFO] ebanking - Username provided
+2025-06-27 17:12:30 [INFO] ebanking - Password provided
+2025-06-27 17:12:34 [INFO] ebanking - Username provided
+2025-06-27 17:12:34 [INFO] ebanking - Password provided
+2025-06-27 17:12:39 [INFO] ebanking - Username provided
+2025-06-27 17:12:39 [INFO] ebanking - Password provided
+2025-06-27 17:12:42 [INFO] ebanking - Login passed
+2025-06-27 17:12:49 [INFO] ebanking - Username provided
+2025-06-27 17:12:49 [INFO] ebanking - Password provided
+2025-06-27 17:12:54 [INFO] ebanking - Providing customer details ...
+2025-06-27 17:12:57 [INFO] ebanking - validation started ...
+2025-06-27 17:27:26 [INFO] ebanking - URL is opened
+2025-06-27 17:27:26 [INFO] ebanking - Entered username
+2025-06-27 17:27:26 [INFO] ebanking - Entered password
+2025-06-27 17:27:26 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:27:32 [INFO] ebanking - Username provided
+2025-06-27 17:27:32 [INFO] ebanking - Password provided
+2025-06-27 17:27:35 [INFO] ebanking - Login passed
+2025-06-27 17:27:36 [INFO] ebanking - Username provided
+2025-06-27 17:27:36 [INFO] ebanking - Password provided
+2025-06-27 17:27:40 [INFO] ebanking - Username provided
+2025-06-27 17:27:40 [INFO] ebanking - Password provided
+2025-06-27 17:27:44 [INFO] ebanking - Username provided
+2025-06-27 17:27:44 [INFO] ebanking - Password provided
+2025-06-27 17:27:49 [INFO] ebanking - Username provided
+2025-06-27 17:27:49 [INFO] ebanking - Password provided
+2025-06-27 17:27:53 [INFO] ebanking - Username provided
+2025-06-27 17:27:53 [INFO] ebanking - Password provided
+2025-06-27 17:27:56 [INFO] ebanking - Login passed
+2025-06-27 17:28:00 [INFO] ebanking - Username provided
+2025-06-27 17:28:00 [INFO] ebanking - Password provided
+2025-06-27 17:28:04 [INFO] ebanking - Providing customer details ...
+2025-06-27 17:28:07 [INFO] ebanking - validation started ...
+2025-06-27 17:29:30 [INFO] ebanking - URL is opened
+2025-06-27 17:29:30 [INFO] ebanking - Entered username
+2025-06-27 17:29:30 [INFO] ebanking - Entered password
+2025-06-27 17:29:31 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:29:37 [INFO] ebanking - Username provided
+2025-06-27 17:29:37 [INFO] ebanking - Password provided
+2025-06-27 17:29:41 [INFO] ebanking - Providing customer details ...
+2025-06-27 17:29:45 [INFO] ebanking - validation started ...
+2025-06-27 17:30:41 [INFO] ebanking - URL is opened
+2025-06-27 17:30:41 [INFO] ebanking - Entered username
+2025-06-27 17:30:41 [INFO] ebanking - Entered password
+2025-06-27 17:30:42 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:31:27 [INFO] ebanking - URL is opened
+2025-06-27 17:31:28 [INFO] ebanking - Entered username
+2025-06-27 17:31:28 [INFO] ebanking - Entered password
+2025-06-27 17:31:28 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:32:58 [INFO] ebanking - URL is opened
+2025-06-27 17:32:58 [INFO] ebanking - Entered username
+2025-06-27 17:32:58 [INFO] ebanking - Entered password
+2025-06-27 17:32:58 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:33:00 [INFO] ebanking - Login test passed
+2025-06-27 17:33:15 [INFO] ebanking - URL is opened
+2025-06-27 17:33:15 [INFO] ebanking - Entered username
+2025-06-27 17:33:15 [INFO] ebanking - Entered password
+2025-06-27 17:33:15 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:33:17 [INFO] ebanking - Login test passed
+2025-06-27 17:34:42 [INFO] ebanking - URL is opened
+2025-06-27 17:34:42 [INFO] ebanking - Entered username
+2025-06-27 17:34:42 [INFO] ebanking - Entered password
+2025-06-27 17:34:43 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:34:45 [INFO] ebanking - Login test passed
+2025-06-27 17:35:38 [INFO] ebanking - URL is opened
+2025-06-27 17:35:38 [INFO] ebanking - Entered username
+2025-06-27 17:35:38 [INFO] ebanking - Entered password
+2025-06-27 17:35:39 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:35:41 [INFO] ebanking - Login test passed
+2025-06-27 17:38:43 [INFO] ebanking - URL is opened
+2025-06-27 17:38:43 [INFO] ebanking - Entered username
+2025-06-27 17:38:43 [INFO] ebanking - Entered password
+2025-06-27 17:38:43 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:38:45 [INFO] ebanking - Login test passed
+2025-06-27 17:41:08 [INFO] ebanking - URL is opened
+2025-06-27 17:41:08 [INFO] ebanking - Entered username
+2025-06-27 17:41:08 [INFO] ebanking - Entered password
+2025-06-27 17:41:09 [INFO] ebanking - clicked on  Login button
+2025-06-27 17:41:11 [INFO] ebanking - Login test passed
+2025-06-27 17:41:16 [INFO] ebanking - Username provided
+2025-06-27 17:41:16 [INFO] ebanking - Password provided
+2025-06-27 17:41:20 [INFO] ebanking - Login passed
+2025-06-27 17:41:21 [INFO] ebanking - Username provided
+2025-06-27 17:41:21 [INFO] ebanking - Password provided
+2025-06-27 17:41:25 [INFO] ebanking - Username provided
+2025-06-27 17:41:25 [INFO] ebanking - Password provided
+2025-06-27 17:41:28 [INFO] ebanking - Username provided
+2025-06-27 17:41:28 [INFO] ebanking - Password provided
+2025-06-27 17:41:32 [INFO] ebanking - Username provided
+2025-06-27 17:41:32 [INFO] ebanking - Password provided
+2025-06-27 17:41:37 [INFO] ebanking - Username provided
+2025-06-27 17:41:37 [INFO] ebanking - Password provided
+2025-06-27 17:41:40 [INFO] ebanking - Login passed
+2025-06-27 17:41:46 [INFO] ebanking - Username provided
+2025-06-27 17:41:46 [INFO] ebanking - Password provided
+2025-06-27 17:41:50 [INFO] ebanking - Providing customer details ...
+2025-06-27 17:41:53 [INFO] ebanking - validation started ...
+2025-06-27 18:13:40 [INFO] ebanking - URL is opened
+2025-06-27 18:13:40 [INFO] ebanking - Entered username
+2025-06-27 18:13:40 [INFO] ebanking - Entered password
+2025-06-27 18:13:40 [INFO] ebanking - clicked on  Login button
+2025-06-27 18:13:42 [INFO] ebanking - Login test passed
+2025-06-27 18:13:45 [INFO] ebanking - Username provided
+2025-06-27 18:13:45 [INFO] ebanking - Password provided
+2025-06-27 18:13:48 [INFO] ebanking - Login passed
+2025-06-27 18:13:49 [INFO] ebanking - Username provided
+2025-06-27 18:13:49 [INFO] ebanking - Password provided
+2025-06-27 18:13:53 [INFO] ebanking - Username provided
+2025-06-27 18:13:53 [INFO] ebanking - Password provided
+2025-06-27 18:13:56 [INFO] ebanking - Username provided
+2025-06-27 18:13:56 [INFO] ebanking - Password provided
+2025-06-27 18:14:00 [INFO] ebanking - Username provided
+2025-06-27 18:14:00 [INFO] ebanking - Password provided
+2025-06-27 18:14:04 [INFO] ebanking - Username provided
+2025-06-27 18:14:04 [INFO] ebanking - Password provided
+2025-06-27 18:14:07 [INFO] ebanking - Login passed
+2025-06-27 18:14:11 [INFO] ebanking - Username provided
+2025-06-27 18:14:11 [INFO] ebanking - Password provided
+2025-06-27 18:14:16 [INFO] ebanking - Providing customer details ...
+2025-06-27 18:14:19 [INFO] ebanking - validation started ...
